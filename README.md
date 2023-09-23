@@ -26,7 +26,8 @@ Tratamentos realizados: </b>
 
 ## Relatório de acompanhamento de performance:
 
-![image](https://github.com/PenseJoyce/Projeto-HealthLab-Laboratorio/assets/77034969/50e4e1a6-2104-4c40-aef7-41836079ee10)
+![image](https://github.com/PenseJoyce/Projeto-HealthLab-Laboratorio/assets/77034969/522a21f3-7e50-4127-9970-f63a05c76897)
+
 
 ## Indicadores
 

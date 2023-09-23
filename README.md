@@ -12,7 +12,6 @@ Depois de 1 ano de operação eles querem saber como está o desempenho do atend
 a)	Faturamento (R$ 500 mil/mês) </b>
 b)	Quantidade de atendimentos (3.000 mês) </b>
 
-
 ### 🎲 Base de Dados
 
 A base de dados está disponível [aqui](https://drive.google.com/file/d/1oeY1kgUOUv2kxchKIvLKPTds4jBvaqPG/view?pli=1). </b>

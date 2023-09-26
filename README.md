@@ -2,13 +2,13 @@
 
 ### 🎯 Objetivo
 
-•	Criar um Dashboard com análise de dados do laboratório considerando as metas para ver o desempenho do setor de atendimento. </b>
-•	Gerar insights para os gestores do laboratório, agregando ainda mais na solução entregue. </b>
+- Criar um Dashboard com análise de dados do laboratório considerando as metas para ver o desempenho do setor de atendimento. </b>
+- Gerar insights para os gestores do laboratório, agregando ainda mais na solução entregue. </b>
 
 ### 🏁 Desafios 
 
-O Laboratório ainda não possui uma cultura de dados, mas estão dispostos a mudar isso e se tornar mais competitivos no mercado.  </b>
-Depois de 1 ano de operação eles querem saber como está o desempenho do atendimento do laboratório. Eles estabeleceram duas metas:  </b>
+-  O Laboratório ainda não possui uma cultura de dados, mas estão dispostos a mudar isso e se tornar mais competitivos no mercado.  </b>
+-  Depois de 1 ano de operação eles querem saber como está o desempenho do atendimento do laboratório. Eles estabeleceram duas metas:  </b>
 a)	Faturamento (R$ 500 mil/mês) </b>
 b)	Quantidade de atendimentos (3.000 mês) </b>
 

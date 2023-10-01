@@ -24,7 +24,7 @@ Tratamentos realizados: </b>
 - Substituição de valores nulos
 - Correção da Data/Hora de atendimento
 
-## Relatório de acompanhamento de performance:
+## 📊 Relatório de acompanhamento de performance:
 
 - Modo Claro
 ![image](https://github.com/PenseJoyce/Projeto-HealthLab-Laboratorio/assets/77034969/79325a6f-01d7-481c-b467-b77c6acce59f)
@@ -33,7 +33,7 @@ Tratamentos realizados: </b>
 ![image](https://github.com/PenseJoyce/Projeto-HealthLab-Laboratorio/assets/77034969/da98c386-710c-4130-a4c9-f2c150495c56)
 
 
-## Indicadores
+## 🏴 Indicadores
 
 - Mês de maior faturamento
 - Mês de maior quantidade de atendimentos
